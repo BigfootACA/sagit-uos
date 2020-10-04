@@ -1,5 +1,17 @@
 # Mi 6 runs UOS
 
+## Where to download
+​	The flashing package will be uploaded and downloaded publicly on 2020/10/04 11:00-12:00 (UTC+0), so stay tuned.
+​	Upcoming flash package:
+​		983MB UOSv20-Mi6_SAGIT-PreTest-0.0.1.zip
+
+## What will be updated in the next version
+
+1. Coexist with Android, no need to clear userdata.
+2. Install the boot into Recovery and use the boot menu to select boot.
+3. Embedded TWRP in the boot menu
+4. Fix some bugs and improve system experience.
+
 ## Precautions
 
 1. Flashing in the flashing package will cause **ALL USERDATA TO BE CLEARED**, including user data, internal storage, and Android system.
@@ -78,7 +90,5 @@
 | WiFi              | No    | Android userspace driver is required                                                                                |
 | Bluetooth         | No    | Android userspace driver is required                                                                                |
 | Mobile Data       | No    | Android userspace driver is required, and ModemManager does not know if it can support it                           |
-| Phone dialing     | No    | I don't think you will make a call with a Linux desktop system                                                      |
-| SMS               | No    | I don't think you will send and receive SMS with a Linux desktop system                                             |
-| Micro SD card     | No    | Is there that thing :-0                                                                                             |
-| Virtual machine   | No    | KVM is blocked by hardware, normal. But soft simulation can                                                         |
+| Phone dialing     | No    | Android userspace driver is required, and ModemManager does not know if it can support it                           |
+| SMS               | No    | Android userspace driver is required, and ModemManager does not know if it can support it                           |
