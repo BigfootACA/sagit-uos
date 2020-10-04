@@ -1,7 +1,7 @@
 # Mi 6 runs UOS
 
 ## Where to download
-​	The flashing package will be uploaded and downloaded publicly on 2020/10/04 11:00-12:00 (UTC+0), so stay tuned.
+​	The flashing package will be uploaded and downloaded publicly on 2020/10/05 11:00-12:00 (UTC+0), so stay tuned.
 ​	Upcoming flash package:
 ​		983MB UOSv20-Mi6_SAGIT-PreTest-0.0.1.zip
 
