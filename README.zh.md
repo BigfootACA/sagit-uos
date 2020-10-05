@@ -1,9 +1,9 @@
 # 小米6运行UOS
 
 ## 在哪里下载
-​	刷机包将于 2020/10/05 19:00-20:00(UTC+8) 上传并公开下载，敬请期待。
-​	即将公开的刷机包:
-​		983MB UOSv20-Mi6_SAGIT-PreTest-0.0.1.zip
+​	GitHub: [PreTest-0.0.1](https://github.com/BigfootACA/sagit-uos/releases/tag/PreTest-0.0.1)
+​	OneDrive: [MI6-UOS-PreTest-0.0.1.7z](https://1drv.ms/u/s!AsDs1e5NdflSjluG9D3yo0WqhBl9?e=lFewBb)
+​	百度网盘: [提取码：n5vv](https://pan.baidu.com/s/1yZ9ddO2aIeJPPQIkPUPDKQ)
 
 ## 注意事项
 
