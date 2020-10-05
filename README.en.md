@@ -1,9 +1,20 @@
 # Mi 6 runs UOS
 
 ## Where to download
+
 ​	GitHub: [PreTest-0.0.1](https://github.com/BigfootACA/sagit-uos/releases/tag/PreTest-0.0.1)
+
 ​	OneDrive: [MI6-UOS-PreTest-0.0.1.7z](https://1drv.ms/u/s!AsDs1e5NdflSjluG9D3yo0WqhBl9?e=lFewBb)
+
 ​	BaiduNetdisk: [Code：n5vv](https://pan.baidu.com/s/1yZ9ddO2aIeJPPQIkPUPDKQ)
+
+​	189 Cloud: [Code：z3ne](https://cloud.189.cn/t/uEBRZvRziay2)
+
+​	Jianguoyun: [MI6-UOS-PreTest-0.0.1.7z](https://www.jianguoyun.com/p/DYJX_EkQhJfuCBjriMED)
+
+​	Google Drive: [MI6-UOS-PreTest-0.0.1.7z](https://drive.google.com/file/d/1Oj50VvryFWSsOVtYhmxdtmfIpNYbZH6M/view?usp=sharing)
+
+​	Weiyun: [MI6-UOS-PreTest-0.0.1.7z](https://share.weiyun.com/J7qf3V1o)
 
 ## Precautions
 
@@ -66,17 +77,25 @@
 
 ## Hardware information
 
-	Model: Mi 6
-	Chipset: Qualcomm Snapdragon 835 MSM8998
-	CPU: Kyro 280
-	Memory: 4GB/6GB
-	Storage: 64GB/128GB
-	Display: 1080x1920 IPS LED
+Model: Mi 6
+
+Chipset: Qualcomm Snapdragon 835 MSM8998
+
+CPU: Kyro 280
+
+Memory: 4GB/6GB
+
+Storage: 64GB/128GB
+
+Display: 1080x1920 IPS LED
+
+
 
 ## Software Information
 
-	The flashing package provides a UOS 20 Professional 1021.
-	The flashing package is composed of open source software, please check the flashing package for the specific list.
+The flashing package provides a UOS 20 Professional 1021.
+
+The flashing package is composed of open source software, please check the flashing package for the specific list.
 
 ## Supported features
 

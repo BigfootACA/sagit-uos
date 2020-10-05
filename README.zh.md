@@ -2,8 +2,18 @@
 
 ## 在哪里下载
 ​	GitHub: [PreTest-0.0.1](https://github.com/BigfootACA/sagit-uos/releases/tag/PreTest-0.0.1)
+
 ​	OneDrive: [MI6-UOS-PreTest-0.0.1.7z](https://1drv.ms/u/s!AsDs1e5NdflSjluG9D3yo0WqhBl9?e=lFewBb)
+
 ​	百度网盘: [提取码：n5vv](https://pan.baidu.com/s/1yZ9ddO2aIeJPPQIkPUPDKQ)
+
+​	天翼云盘: [访问码：z3ne](https://cloud.189.cn/t/uEBRZvRziay2)
+
+​	坚果云: [MI6-UOS-PreTest-0.0.1.7z](https://www.jianguoyun.com/p/DYJX_EkQhJfuCBjriMED)
+
+​	云端硬盘: [MI6-UOS-PreTest-0.0.1.7z](https://drive.google.com/file/d/1Oj50VvryFWSsOVtYhmxdtmfIpNYbZH6M/view?usp=sharing)
+
+​	微云: [MI6-UOS-PreTest-0.0.1.7z](https://share.weiyun.com/J7qf3V1o)
 
 ## 注意事项
 
@@ -69,15 +79,21 @@
 ## 硬件信息
 
 ​	型号：小米6
+
 ​	芯片组：高通骁龙835（Qualcomm Snapdragon 835 MSM8998）
+
 ​	CPU：Kyro 280
+
 ​	内存：4GB/6GB
+
 ​	存储空间：64GB/128GB
+
 ​	显示屏：1080x1920 IPS LED
 
 ## 软件信息
 
 ​	该刷机包提供一个UOS 20专业版1021。
+
 ​	刷机包使用开源软件构成，具体列表请查看刷机包。
 
 ## 支持的功能
