@@ -5,13 +5,6 @@
 ​	Upcoming flash package:
 ​		983MB UOSv20-Mi6_SAGIT-PreTest-0.0.1.zip
 
-## What will be updated in the next version
-
-1. Coexist with Android, no need to clear userdata.
-2. Install the boot into Recovery and use the boot menu to select boot.
-3. Embedded TWRP in the boot menu
-4. Fix some bugs and improve system experience.
-
 ## Precautions
 
 1. Flashing in the flashing package will cause **ALL USERDATA TO BE CLEARED**, including user data, internal storage, and Android system.
@@ -23,20 +16,42 @@
 7. **Please do not reprint without authorization, otherwise legal responsibility will be pursued. **
 
 ## Installation Guide
+### Install directly from the phone
 
-1. **Back up your mobile phone first, otherwise the data will be gone after you refresh it, including software, photo albums, contacts, chat history, etc. **
+1. **Backup your mobile phone first, otherwise the data will be gone after you refresh it, including software, photo albums, contacts, chat history, etc. **
 2. Confirm that your phone has been unlocked ([Unlock Bootloader](http://en.miui.com/unlock/index.html)).
-3. Download TWRP and install it ([TWRP for Mi 6](https://dl.twrp.me/sagit/)).
-4. Download the flashing package.
+3. Download and install TWRP ([TWRP for Xiaomi 6](https://dl.twrp.me/sagit/)).
+4. Download the latest version package and unzip it to obtain the flashing package UOSv20-Mi6_SAGIT-PreTest-0.0.1.zip.
 5. Make sure that all the data you need has been backed up.
-6. **When the battery power is less than 25%, the installation will be refused. Without a charger, at least 80% of the power can be installed. **
+6. **When the battery power is less than 25%, the installation will be refused. When there is no charger, at least 80% of the power can be installed. **
 7. Boot to TWRP (power button + volume up button in Mi 6).
-8. Click "Install" on the TWRP main screen, and then select the flashing package you downloaded.
-9. Slide the lower slider to start flashing.
-10. After the installation is complete, click Restart and slide the slider to confirm. It may prompt "No OS Installed!", please ignore.
-11. After restarting, it will enter the UOS system.
+8. Click "Advance" on the main screen of TWRP, enter "File Manager", find the flashing package, and copy it to directories other than /data, /system, /sdcard, and /cache (such as /tmp )
+9. Back to the TWRP main screen, click "Install", and then select the flashing package you copied.
+10. Slide the lower slider to start flashing.
+11. After the installation is complete, click "Reboot System" and slide the slider to confirm. It may prompt "No OS Installed!" (No OS Installed!), please ignore.
+12. After restarting, it will enter the UOS system.
 
+### Install from computer using data cable
+
+1. **Backup your mobile phone first, otherwise the data will be gone after you refresh it, including software, photo albums, contacts, chat history, etc. **
+2. Confirm that your phone has been unlocked ([Unlock Bootloader](http://en.miui.com/unlock/index.html)).
+3. Download and install TWRP ([TWRP for Xiaomi 6](https://dl.twrp.me/sagit/)).
+4. Download the latest version package and unzip it.
+5. Make sure that all the data you need has been backed up.
+6. **When the battery power is less than 25%, the installation will be refused. When there is no charger, at least 80% of the power can be installed. **
+7. Boot to TWRP (power button + volume up button in Mi 6).
+8. Click "Advance" on the TWRP main screen, click "ADB Sideload", and slide the lower slider to enter Sideload mode.
+9. Click flash.bat to start flashing.
+10. After the installation is complete, return to the TWRP main screen, click "Reboot", click "System" in the submenu, and slide the slider to confirm. It may prompt "No OS Installed!", please ignore.
+11. After restarting, it will enter the UOS system.
 ![Desktop experience](pics/in_uos.jpg)
+
+## What will be updated in the next version
+
+1. Coexist with Android, no need to clear userdata.
+2. Install the boot into Recovery and use the boot menu to select boot.
+3. Embedded TWRP in the boot menu
+4. Fix some bugs and improve system experience.
 
 ## Known issues
 
