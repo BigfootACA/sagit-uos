@@ -73,9 +73,7 @@
 5. Can't open the device manager (because of dmidecode problem)
 6. The app store seems to be unavailable (finding the reason, hope the next version will work)
 7. When the screen is turned off and then turned on again, the touch will fail (so turn off the automatic screen off)
-8. When the charger is turned off, it will boot into the system (add the charger in the next version)
-9. Unprivileged users may not be able to access the Internet (restrictions of the Android kernel)
-10. apt does not work normally (caused by issue 9)
+8. Unprivileged users may not be able to access the Internet (restrictions of the Android kernel)
 
 ## Hardware information
 
