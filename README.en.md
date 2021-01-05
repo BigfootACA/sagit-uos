@@ -121,7 +121,7 @@ The flashing package is composed of open source software, please check the flash
 | Fingerprint       | No    | Seems like none                                                                                                     |
 | Infrared          | No    | Seems like none                                                                                                     |
 | Sensor            | No    | Seems like none                                                                                                     |
-| WiFi              | No    | Android userspace driver is required                                                                                |
+| WiFi              | Yes   | Has successfully transplanted Halium and started WiFi normally                                                      |
 | Bluetooth         | No    | Android userspace driver is required                                                                                |
 | Mobile Data       | No    | Android userspace driver is required, and ModemManager does not know if it can support it                           |
 | Phone dialing     | No    | Android userspace driver is required, and ModemManager does not know if it can support it                           |
